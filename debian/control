@@ -1,0 +1,18 @@
+Source: uploadlasthex
+Section: plugins
+Priority: optional
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: uploadlasthex
+Section: plugins
+Architecture: all
+XBSC-Group: Programming
+Description: Re-upload last compiled hex file
+ A small plugin to allow you to re-upload the last .hex file you
+ compiled without needing to compile again.  Just calls the currently
+ selected programmer without any compilation.
+
+
+

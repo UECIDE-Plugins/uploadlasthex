@@ -1,0 +1,10 @@
+Package: virtuallcd
+Version: 1.0.1
+Architecture: all
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Installed-Size: 67
+Depends: libvirtuallcd
+Section: plugins
+Priority: optional
+Description: Virtual LCD
+ Virtual graphical LCD plugin with advanced serial interface.
