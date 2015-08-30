@@ -42,7 +42,6 @@ public class UploadLastHex extends Plugin
     }
 
     public void addToolbarButtons(JToolBar toolbar, int flags) {
-    System.err.println(">>>> ADDING TOOLBAR ICON <<<<");
         if (flags == Plugin.TOOLBAR_EDITOR) {
             Version iconTest = new Version("0.8.7z31");
 
